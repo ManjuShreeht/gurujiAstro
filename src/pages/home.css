@@ -1,0 +1,22 @@
+.home{
+    
+    margin-left:150px;
+    margin-right: 150px;
+    /* height: max-content; */
+    background: #FFEFE3;
+    height:400vh;
+ 
+}
+.home1{
+  
+    background: #FFEFE3;
+    height: 900px;
+    z-index: 2;
+}
+.home2{
+
+    background: #FFEFE3;
+  padding-left: 20px;
+ 
+  
+}

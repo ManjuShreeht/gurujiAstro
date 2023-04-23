@@ -1,0 +1,156 @@
+.f{
+    width: 100%;
+    height: 500px;
+    background: #BD5300;
+}
+
+.footer{
+  padding: 40px  100px 0px;
+    display:flex;
+   
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap:10px;
+
+
+}
+.col1{
+    flex:1;
+    display:flex;
+    flex-direction: column;
+  color: white;
+  
+}
+.in{
+    display: flex;
+    gap:5px;
+    align-items: center;
+    justify-content: flex-start;
+    
+}
+ .round-img{
+    width:25px;
+    height: 25px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+  
+   
+} 
+.flex img{
+    width:20px;
+    height: 20px;
+    
+
+}
+ 
+.flex{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap:20px;
+}
+/* img{
+    width: 20px;
+} */
+.logo{
+    width:50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50%;;
+}
+
+.img-btn{
+    width:200px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+.col2{
+   flex:1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  gap:25px;
+    
+   color: white;
+   cursor: pointer;
+  
+  
+    
+}
+.in-div h3{
+    padding-bottom: 10px;
+}
+.in-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap:10px;
+   
+  
+
+}
+.col3{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap:25px;
+   color: white;
+}
+.input{
+    background: #FAFAFA;
+border: 1px solid #FBFBFB;
+border-radius: 5px;
+width: 250px;
+height: 42px;
+padding: 10px;
+}
+.input1{
+    padding: 10px;
+    width: 250px;
+    height: 92px; 
+}
+.btn{
+    width: 250px;
+height: 42px;
+
+color: white;
+cursor: pointer;
+background: #4B9C0C;
+border-radius: 6px;
+}
+
+.pi{
+    margin: 10px;
+    word-wrap: break-word;
+    color: white;
+}
+.turst{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap:10px;
+    margin-top: 10px;
+}
+.pa{
+    display: flex;
+    flex-wrap: wrap;
+    gap:5px;
+}
+.razo{
+width:120px;
+height: 50px;
+background-color: white;
+border-radius: 6px;
+padding: 10px;;
+}
