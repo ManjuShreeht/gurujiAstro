@@ -4,7 +4,7 @@
     margin-right: 150px;
     /* height: max-content; */
     background: #FFEFE3;
-    height:400vh;
+    height:570vh;
  
 }
 .home1{
@@ -19,4 +19,12 @@
   padding-left: 20px;
  
   
+}
+.home3{
+    padding-top: 80px;
+    margin:30px
+}
+.home4{
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
